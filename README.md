@@ -1,5 +1,4 @@
 # EclipseStyleKeyBindings
-Eclipse Style KeyBindings For Xcode
 
 Step 1:
 > Edit `/Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/Resources/IDETextKeyBindingSet.plist`,
