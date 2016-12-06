@@ -110,5 +110,22 @@
 		<key>Version</key>
 		<integer>3</integer>
 	</dict>
+	<key>Text Key Bindings</key>
+	<dict>
+		<key>Key Bindings</key>
+		<dict>
+			<key></key>
+			<array>
+				<string>deleteForward:</string>
+			</array>
+			<key>^d</key>
+			<array>
+				<string>selectLine:</string>
+				<string>delete:</string>
+			</array>
+		</dict>
+		<key>Version</key>
+		<integer>3</integer>
+	</dict>
 </dict>
 </plist>
